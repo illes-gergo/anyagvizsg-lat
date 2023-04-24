@@ -1,0 +1,55 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[magyar]{babel}
+
+\usetheme{Madrid}
+\usecolortheme{seagull}
+
+\title{Az atomerő mikroszkópok}
+\subtitle{Egy bevezetés a nanotechnológiába}
+\author{ChatGPT}
+\institute{OpenAI}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+\frametitle{Tartalomjegyzék}
+\tableofcontents
+\end{frame}
+
+\section{Bevezetés}
+
+\begin{frame}
+\frametitle{Bevezetés}
+\begin{itemize}
+\item Az atomerő mikroszkópok olyan eszközök, amelyek képesek megvizsgálni a nanoméretű objektumokat.
+\item Az atomerő mikroszkópok az atomok és molekulák felbontására képesek, ami lehetővé teszi a nanotechnológiai kutatásokat és fejlesztéseket.
+\end{itemize}
+\end{frame}
+
+\section{Az atomerő mikroszkóp működése}
+
+\begin{frame}
+\frametitle{Az atomerő mikroszkóp működése}
+\begin{itemize}
+\item Az atomerő mikroszkópok működése alapvetően a piezoelektromos hatáson alapul.
+\item A mikroszkóp csúcsa nagyon érzékeny érzékelővel van ellátva, amely érzékelni tudja az atomok közötti erőket.
+\item Az atomerő mikroszkópokkal készült képek nagy felbontásúak, és lehetővé teszik az atomok és molekulák részletes vizsgálatát.
+\end{itemize}
+\end{frame}
+
+\section{Az atomerő mikroszkóp alkalmazása}
+
+\begin{frame}
+\frametitle{Az atomerő mikroszkóp alkalmazása}
+\begin{itemize}
+\item Az atomerő mikroszkópokat széles körben alkalmazzák a nanotechnológiában, például a nanoméretű anyagok előállításában és kutatásában.
+\item Az atomerő mikroszkópok segítségével lehetővé válik az anyagok szerkezetének, valamint azok fizikai és kémiai tulajdonságainak vizsgálata is.
+\item Az atomerő mikroszkópok használata fontos szerepet játszik a nanotechnológiában történő innovációkban és fejlesztésekben.
+\end{itemize}
