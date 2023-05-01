@@ -6,6 +6,8 @@
 \usepackage{biblatex}
 \usepackage{csquotes}
 \usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
 
 % Acous-optics Bragg Diffraction Interaction of sound and light
 % Doppler-shift Acousto optic devices
@@ -39,6 +41,15 @@
 
 \section{Bragg-diffrakció}
 \begin{frame}
+\frametitle{\secname - Akusztooptika mint kifejezés}
+\begin{itemize}
+\item Optikai közegek törésmutatója megváltoztatható mechanikai ráhatással
+\item Használhatunk ultrahangot
+\item Akusztooptika: A hanghullámok által előidézett optikai tulajdonságváltozás vizsgálata
+\item Felhasználása: optikai modulátorok, eltérítők, frekvencia modulátor, spektrum analizátor
+\end{itemize}
+\end{frame}
+\begin{frame}
 \frametitle{\secname}
 \begin{columns}
 \column{.6\textwidth}
@@ -56,9 +67,9 @@
 \end{columns}
 \end{frame}
 
-\section{Fény és hang interakció}
+
 \begin{frame}
-\frametitle{\secname}
+
 \begin{columns}
 \column{.5\textwidth}
 \begin{itemize}
@@ -81,12 +92,21 @@
 \end{figure}
 \end{frame}
 
+\section{Fény és hang interakció}
+\begin{frame}
+\frametitle{\secname}
+\begin{itemize}
+\item Definiálhatunk egy akusztooptikai tényezőt (merit): $\mathcal{M}=\dfrac{p^2n^6}{\rho v^3}$\\ahol $p$: elaszto-optikai együttható, $n$: törésmutató, $v$: hangsebesség, $\rho$:~tömegi~sűrűség
+\item A törésmutató változása:$\Delta n_0=\sqrt{\frac{1}{2}\mathcal{M}I_s}$, ahol $I_s$ a hang intenzitása
+\end{itemize}
+\end{frame}
+
 \section{Hivatkozások}
 \begin{frame}
 \frametitle{\secname}
 \begin{thebibliography}{99}
 \footnotesize
-\bibitem{saleh-teich}
+\bibitem{saleh-teich} Saleh, Teich: Fundamentals of Photonics
 \bibitem{physopen} \url{https://physicsopenlab.org/2018/01/18/bragg-diffraction/}
 \bibitem{fizpedia} \url{https://fizipedia.bme.hu/index.php/Akusztooptikai_f\%C3\%A9nydiffrakci\%C3\%B3_vizsg\%C3\%A1lata}
 \bibitem{isomet} \url{https://isomet.com/acousto_optics.html}
