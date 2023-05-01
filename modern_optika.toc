@@ -1,3 +1,7 @@
 \select@language {magyar} \beamer@sectionintoc {1}{Bragg-diffrakció}{3}{0}{1}
-\select@language {magyar} \beamer@sectionintoc {2}{Fény és hang interakció}{7}{0}{2}
-\select@language {magyar} \beamer@sectionintoc {3}{Hivatkozások}{8}{0}{3}
+\select@language {magyar} \beamer@sectionintoc {2}{Doppler eltolódás}{10}{0}{2}
+\select@language {magyar} \beamer@sectionintoc {3}{Kvantumos értelmezés}{11}{0}{3}
+\select@language {magyar} \beamer@sectionintoc {4}{Egyéb esetek}{12}{0}{4}
+\select@language {magyar} \beamer@subsectionintoc {4}{1}{Fókuszált nyaláb síkhullámokról való visszaverődése}{12}{0}{4}
+\select@language {magyar} \beamer@subsectionintoc {4}{2}{Fókuszált nyaláb görbült frontról való visszaverődése}{13}{0}{4}
+\select@language {magyar} \beamer@sectionintoc {5}{Hivatkozások}{14}{0}{5}

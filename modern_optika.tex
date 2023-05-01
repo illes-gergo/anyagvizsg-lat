@@ -18,6 +18,7 @@
 
 \usetheme{Madrid}
 \usecolortheme{default}
+\usefonttheme[onlymath]{serif}
 \renewcommand{\figurename}{}
 \newcommand{\framet}{\frametitle{\secname{} - \subsecname}}
 
@@ -41,7 +42,7 @@
 
 \section{Bragg-diffrakció}
 \begin{frame}
-\frametitle{\secname - Akusztooptika mint kifejezés}
+\frametitle{\secname{} - Akusztooptika mint kifejezés}
 \begin{itemize}
 \item Optikai közegek törésmutatója megváltoztatható mechanikai ráhatással
 \item Használhatunk ultrahangot
@@ -92,13 +93,104 @@
 \end{figure}
 \end{frame}
 
-\section{Fény és hang interakció}
 \begin{frame}
-\frametitle{\secname}
 \begin{itemize}
 \item Definiálhatunk egy akusztooptikai tényezőt (merit): $\mathcal{M}=\dfrac{p^2n^6}{\rho v^3}$\\ahol $p$: elaszto-optikai együttható, $n$: törésmutató, $v$: hangsebesség, $\rho$:~tömegi~sűrűség
 \item A törésmutató változása:$\Delta n_0=\sqrt{\frac{1}{2}\mathcal{M}I_s}$, ahol $I_s$ a hang intenzitása
 \end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\begin{itemize}
+\item A Bragg-cella reflexiója: $r_\pm=\pm i\,r_0\,\mathrm{sinc}\left[(2k\sin(\theta)\mp q)\frac{L}{2\pi}\right]\cdot\mathrm{exp}(\pm i\Omega t)$
+\item A $\pm$ két komponenst jelöl
+\item $r_+$ a Bragg upshifted, $r_-$ pedig Bragg downshifted reflexió
+\item $r_+$ akkor maximális, amikor $2k\sin(\theta)=q$
+\end{itemize}
+\begin{figure}
+\includegraphics[width=.6\textwidth]{reflexio.png}
+\caption{Reflexió periodikusan anizotróp közegben}
+\end{figure}
+\vspace*{-30pt}
+\end{frame}
+
+\begin{frame}
+\begin{columns}
+\column{.6\textwidth}
+\begin{itemize}
+\item $r_+$ maximális ha $2k\sin(\theta)=q$.
+\item $q=\frac{2\pi}{\Lambda}$ valamint $k=\frac{2\pi}{\lambda}$.
+\item Visszahelyettesítve megkapjuk a Bragg feltételt: $\sin(\theta_B)=\frac{\lambda}{2\Lambda}$.
+\item A reflexió csak a ezen $\theta_B$ szög közelében van jelen.
+\item Amikor $\sin(\theta)-\sin(\theta_B)=\frac{\lambda}{2L}$ a reflexió megszűnik.
+\end{itemize}
+\column{.4\textwidth}
+\begin{figure}
+\includegraphics[width=\textwidth]{sinc.png}
+\caption{Reflektált intenzitás $\theta$ függvényében}
+\end{figure}
+\end{columns}
+\end{frame}
+
+\section{Doppler eltolódás}
+\begin{frame}
+\frametitle{\secname}
+\begin{itemize}
+\item A felületekről visszavert fény frekvenciája megváltozik
+\item Ez egy Doppler eltolásként is felfogható
+\item Az $r_+$ reflexióé $\omega+\Omega$ az $r_-$-é pedig $\omega-\Omega$
+\end{itemize}
+\begin{columns}
+\column{.5\textwidth}
+\begin{figure}
+\includegraphics[width=.95\textwidth]{refp.png}
+\caption{Bragg upshift}
+\end{figure}
+\column{.5\textwidth}
+\begin{figure}
+\includegraphics[width=.95\textwidth]{refm.png}
+\caption{Bragg downshift}
+\end{figure}
+\end{columns}
+\end{frame}
+\section{Kvantumos értelmezés}
+\begin{frame}
+\frametitle{\secname}
+\begin{columns}
+\column{.68\textwidth}
+\begin{itemize}
+\item A kvantummechanika szerint a fény elemi csomagokban terjed
+\item A fény kvantuma a foton
+\item Az anyagi közegben terjedő hullámok szintén kvantáltak
+\item A mechanikai rezgések kvantuma a fonon
+\item A reflexió felfogható egy fonon-foton kölcsönhatásként
+\item $\hbar k_r = \hbar k + \hbar q$
+\end{itemize}
+\column{.32\textwidth}
+\begin{figure}
+\raggedright
+\includegraphics[width=.95\textwidth]{diat_phonon.png}
+\caption{Diszperziós reláció}
+\end{figure}
+\end{columns}
+\end{frame}
+\section{Egyéb esetek}
+\subsection{Fókuszált nyaláb síkhullámokról való visszaverődése}
+\begin{frame}
+\frametitle{\subsecname}
+\begin{figure}
+\includegraphics[width=.85\textwidth]{beam-planar.png}
+\caption{Fókuszált nyaláb síkhullámról való reflektálódása}
+\end{figure}
+\end{frame}
+\subsection{Fókuszált nyaláb görbült frontról való visszaverődése}
+\begin{frame}
+\frametitle{\subsecname}
+\begin{figure}
+\includegraphics[width=.85\textwidth]{beam-spherical.png}
+\caption{Fókuszált nyaláb görbült frontról való reflektálódása}
+\end{figure}
 \end{frame}
 
 \section{Hivatkozások}
@@ -106,7 +198,7 @@
 \frametitle{\secname}
 \begin{thebibliography}{99}
 \footnotesize
-\bibitem{saleh-teich} Saleh, Teich: Fundamentals of Photonics
+\bibitem{saleh-teich} Saleh, Teich: Fundamentals of Photonics Chapter 20.
 \bibitem{physopen} \url{https://physicsopenlab.org/2018/01/18/bragg-diffraction/}
 \bibitem{fizpedia} \url{https://fizipedia.bme.hu/index.php/Akusztooptikai_f\%C3\%A9nydiffrakci\%C3\%B3_vizsg\%C3\%A1lata}
 \bibitem{isomet} \url{https://isomet.com/acousto_optics.html}

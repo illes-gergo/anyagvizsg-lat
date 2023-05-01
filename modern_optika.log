@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.13)  1 MAY 2023 13:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.13)  1 MAY 2023 20:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1004,31 +1004,33 @@ File: csquotes.cfg
 y)
 (f:/texlive/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.
 sty))
+(f:/texlive/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemeserif.sty)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'magyar'.
- (./modern_optika.aux)
+
+(./modern_optika.aux)
 \openout1 = `modern_optika.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1086,69 +1088,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 25.
 
 (./modern_optika.out) (./modern_optika.out)
 \@outlinefile=\write6
 \openout6 = `modern_optika.out'.
 
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 24.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 24.
-\symnumbers=\mathgroup6
-\sympureletters=\mathgroup7
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 24.
-LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 24.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 24.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 24.
-LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 24
-.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 24
-.
-LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 24.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 24
-.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 24.
 
 (f:/texlive/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1189,64 +1134,58 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'modern_optika.bbl' found.
 
 (./modern_optika.bbl)
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
+Package biblatex Info: Reference section=0 on input line 25.
+Package biblatex Info: Reference segment=0 on input line 25.
  (./modern_optika.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 27.
+(hyperref)                setting the option has no effect on input line 28.
 
 [1
 
 {f:/texlive/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{f:/texli
 ve/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 (./modern_optika.toc)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
 
 
 (f:/texlive/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
 
 
 (f:/texlive/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 40.
-
-(f:/texlive/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
 ) [2
 
 ] [3
 
 ]
-<xrd6.jpg, id=70, 643.40375pt x 352.31625pt>
+<xrd6.jpg, id=93, 643.40375pt x 352.31625pt>
 File: xrd6.jpg Graphic file (type jpg)
 <use xrd6.jpg>
-Package pdftex.def Info: xrd6.jpg  used on input line 68.
+Package pdftex.def Info: xrd6.jpg  used on input line 69.
 (pdftex.def)             Requested size: 156.0508pt x 85.45003pt.
- [4
+
+[4
 
  <./xrd6.jpg>]
-<bragg-diff.png, id=78, 351.3125pt x 223.83624pt>
+<bragg-diff.png, id=101, 351.3125pt x 223.83624pt>
 File: bragg-diff.png Graphic file (type png)
 <use bragg-diff.png>
-Package pdftex.def Info: bragg-diff.png  used on input line 87.
+Package pdftex.def Info: bragg-diff.png  used on input line 88.
 (pdftex.def)             Requested size: 205.90425pt x 131.1947pt.
  [5
 
  <./bragg-diff.png>]
-<isomet.jpg, id=90, 745.78625pt x 513.92pt>
+<isomet.jpg, id=112, 745.78625pt x 513.92pt>
 File: isomet.jpg Graphic file (type jpg)
 <use isomet.jpg>
-Package pdftex.def Info: isomet.jpg  used on input line 93.
+Package pdftex.def Info: isomet.jpg  used on input line 94.
 (pdftex.def)             Requested size: 346.78854pt x 238.97032pt.
 
-Overfull \vbox (4.56755pt too high) detected at line 93
+Overfull \vbox (4.56755pt too high) detected at line 94
  []
 
 [6
@@ -1254,12 +1193,65 @@ Overfull \vbox (4.56755pt too high) detected at line 93
  <./isomet.jpg>] [7
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-14.
+<reflexio.png, id=130, 1157.82562pt x 497.60907pt>
+File: reflexio.png Graphic file (type png)
+<use reflexio.png>
+Package pdftex.def Info: reflexio.png  used on input line 116.
+(pdftex.def)             Requested size: 260.09306pt x 111.78256pt.
+ [8
 
-(f:/texlive/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
+ <./reflexio.png>]
+<sinc.png, id=139, 246.9225pt x 201.00093pt>
+File: sinc.png Graphic file (type png)
+<use sinc.png>
+Package pdftex.def Info: sinc.png  used on input line 134.
+(pdftex.def)             Requested size: 173.39096pt x 141.1444pt.
+ [9
+
+ <./sinc.png>]
+<refp.png, id=147, 824.32968pt x 320.69812pt>
+File: refp.png Graphic file (type png)
+<use refp.png>
+Package pdftex.def Info: refp.png  used on input line 156.
+(pdftex.def)             Requested size: 205.90425pt x 80.10582pt.
+<refm.png, id=148, 788.19469pt x 316.93407pt>
+File: refm.png Graphic file (type png)
+<use refm.png>
+Package pdftex.def Info: refm.png  used on input line 156.
+(pdftex.def)             Requested size: 205.90425pt x 82.79262pt.
+ [10
+
+ <./refp.png> <./refm.png>]
+<diat_phonon.png, id=156, 165.61874pt x 152.06813pt>
+File: diat_phonon.png Graphic file (type png)
+<use diat_phonon.png>
+Package pdftex.def Info: diat_phonon.png  used on input line 177.
+(pdftex.def)             Requested size: 131.78172pt x 121.00496pt.
+ [11
+
+ <./diat_phonon.png>]
+<beam-planar.png, id=164, 499.11469pt x 204.765pt>
+File: beam-planar.png Graphic file (type png)
+<use beam-planar.png>
+Package pdftex.def Info: beam-planar.png  used on input line 186.
+(pdftex.def)             Requested size: 368.46407pt x 151.17064pt.
+ [12
+
+ <./beam-planar.png>]
+<beam-spherical.png, id=171, 529.22719pt x 206.27063pt>
+File: beam-spherical.png Graphic file (type png)
+<use beam-spherical.png>
+Package pdftex.def Info: beam-spherical.png  used on input line 194.
+(pdftex.def)             Requested size: 368.46407pt x 143.61102pt.
+ [13
+
+ <./beam-spherical.png>]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+06.
+ (f:/texlive/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-) [8
+)
+[14
 
 ]
 \tf@nav=\write7
@@ -1271,39 +1263,40 @@ File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 \tf@snm=\write9
 \openout9 = `modern_optika.snm'.
 
-
-(./modern_optika.aux)
+ (./modern_optika.aux)
 Package rerunfilecheck Info: File `modern_optika.out' has not changed.
-(rerunfilecheck)             Checksum: 2ED63B345EC14CFD8E3D188FDFF6E663;408.
+(rerunfilecheck)             Checksum: 40B08D06D4814002BF7E6625F72AE81E;1347.
 Package logreq Info: Writing requests to 'modern_optika.run.xml'.
 \openout1 = `modern_optika.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31608 strings out of 476017
- 622887 string characters out of 5789774
- 1860660 words of memory out of 5000000
- 51480 multiletter control sequences out of 15000+600000
- 528189 words of font info for 75 fonts, out of 8000000 for 9000
+ 31720 strings out of 476017
+ 625080 string characters out of 5789774
+ 1862660 words of memory out of 5000000
+ 51571 multiletter control sequences out of 15000+600000
+ 526175 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,686b,2547s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,122p,686b,2567s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <f:/texlive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 ><f:/texlive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-<f:/texlive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><
-f:/texlive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><
-f:/texlive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><f
-:/texlive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><f:
-/texlive/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb><f:/t
-exlive/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb><f:/tex
-live/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb><f:/texli
-ve/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><f:/texlive
-/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb><f:/texlive/t
-exlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb><f:/texlive/tex
-live/2023/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on modern_optika.pdf (8 pages, 306465 bytes).
+<f:/texlive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><f
+:/texlive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><f:/
+texlive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><f:/tex
+live/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><f:/texl
+ive/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><f:/texliv
+e/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><f:/te
+xlive/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb><f:/texl
+ive/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb><f:/texliv
+e/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb><f:/texlive/
+texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><f:/texlive/te
+xlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb><f:/texlive/texl
+ive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb><f:/texlive/texliv
+e/2023/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on modern_optika.pdf (14 pages, 553328 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 130 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 271 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
 

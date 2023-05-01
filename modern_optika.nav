@@ -13,18 +13,40 @@
 \select@language {magyar} \headcommand {\beamer@framepages {5}{5}}
 \select@language {magyar} \headcommand {\slideentry {1}{0}{4}{6/6}{}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {6}{6}}
-\select@language {magyar} \headcommand {\beamer@sectionpages {3}{6}}
-\select@language {magyar} \headcommand {\beamer@subsectionpages {3}{6}}
-\select@language {magyar} \headcommand {\sectionentry {2}{Fény és hang interakció}{7}{Fény és hang interakció}{0}}
-\select@language {magyar} \headcommand {\slideentry {2}{0}{1}{7/7}{}{0}}
+\select@language {magyar} \headcommand {\slideentry {1}{0}{5}{7/7}{}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {7}{7}}
-\select@language {magyar} \headcommand {\beamer@sectionpages {7}{7}}
-\select@language {magyar} \headcommand {\beamer@subsectionpages {7}{7}}
-\select@language {magyar} \headcommand {\sectionentry {3}{Hivatkozások}{8}{Hivatkozások}{0}}
-\select@language {magyar} \headcommand {\slideentry {3}{0}{1}{8/8}{}{0}}
+\select@language {magyar} \headcommand {\slideentry {1}{0}{6}{8/8}{}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@partpages {1}{8}}
-\headcommand {\beamer@subsectionpages {8}{8}}
-\headcommand {\beamer@sectionpages {8}{8}}
-\headcommand {\beamer@documentpages {8}}
-\headcommand {\gdef \inserttotalframenumber {8}}
+\select@language {magyar} \headcommand {\slideentry {1}{0}{7}{9/9}{}{0}}
+\select@language {magyar} \headcommand {\beamer@framepages {9}{9}}
+\select@language {magyar} \headcommand {\beamer@sectionpages {3}{9}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {3}{9}}
+\select@language {magyar} \headcommand {\sectionentry {2}{Doppler eltolódás}{10}{Doppler eltolódás}{0}}
+\select@language {magyar} \headcommand {\slideentry {2}{0}{1}{10/10}{}{0}}
+\select@language {magyar} \headcommand {\beamer@framepages {10}{10}}
+\select@language {magyar} \headcommand {\beamer@sectionpages {10}{10}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {10}{10}}
+\select@language {magyar} \headcommand {\sectionentry {3}{Kvantumos értelmezés}{11}{Kvantumos értelmezés}{0}}
+\select@language {magyar} \headcommand {\slideentry {3}{0}{1}{11/11}{}{0}}
+\select@language {magyar} \headcommand {\beamer@framepages {11}{11}}
+\select@language {magyar} \headcommand {\beamer@sectionpages {11}{11}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {11}{11}}
+\select@language {magyar} \headcommand {\sectionentry {4}{Egyéb esetek}{12}{Egyéb esetek}{0}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {12}{11}}
+\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{4}{1}{12}{Fókuszált nyaláb síkhullámokról való visszaverődése}}
+\select@language {magyar} \headcommand {\slideentry {4}{1}{1}{12/12}{Fókuszált nyaláb síkhullámokról való visszaverődése}{0}}
+\select@language {magyar} \headcommand {\beamer@framepages {12}{12}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {12}{12}}
+\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{4}{2}{13}{Fókuszált nyaláb görbült frontról való visszaverődése}}
+\select@language {magyar} \headcommand {\slideentry {4}{2}{1}{13/13}{Fókuszált nyaláb görbült frontról való visszaverődése}{0}}
+\select@language {magyar} \headcommand {\beamer@framepages {13}{13}}
+\select@language {magyar} \headcommand {\beamer@sectionpages {12}{13}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {13}{13}}
+\select@language {magyar} \headcommand {\sectionentry {5}{Hivatkozások}{14}{Hivatkozások}{0}}
+\select@language {magyar} \headcommand {\slideentry {5}{0}{1}{14/14}{}{0}}
+\select@language {magyar} \headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@partpages {1}{14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\beamer@sectionpages {14}{14}}
+\headcommand {\beamer@documentpages {14}}
+\headcommand {\gdef \inserttotalframenumber {14}}
