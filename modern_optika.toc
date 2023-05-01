@@ -1,0 +1,3 @@
+\select@language {magyar} \beamer@sectionintoc {1}{Bragg-diffrakció}{3}{0}{1}
+\select@language {magyar} \beamer@sectionintoc {2}{Fény és hang interakció}{4}{0}{2}
+\select@language {magyar} \beamer@sectionintoc {3}{Hivatkozások}{6}{0}{3}

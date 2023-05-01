@@ -3,9 +3,9 @@
 \select@language {magyar} \beamer@subsectionintoc {1}{2}{Elméleti áttekintés}{4}{0}{1}
 \select@language {magyar} \beamer@subsectionintoc {1}{3}{Működési üzemmódok}{6}{0}{1}
 \select@language {magyar} \beamer@subsectionintoc {1}{4}{Felvételek}{7}{0}{1}
-\select@language {magyar} \beamer@sectionintoc {2}{Pásztázó alagútmikroszkóp}{9}{0}{2}
-\select@language {magyar} \beamer@subsectionintoc {2}{1}{Történeti áttekintés}{9}{0}{2}
-\select@language {magyar} \beamer@subsectionintoc {2}{2}{Elméleti áttekintés}{10}{0}{2}
-\select@language {magyar} \beamer@subsectionintoc {2}{3}{Felhasználási lehetőségek}{12}{0}{2}
-\select@language {magyar} \beamer@subsectionintoc {2}{4}{Felvételek}{13}{0}{2}
-\select@language {magyar} \beamer@sectionintoc {3}{Hivatkozások}{15}{0}{3}
+\select@language {magyar} \beamer@sectionintoc {2}{Pásztázó alagútmikroszkóp}{8}{0}{2}
+\select@language {magyar} \beamer@subsectionintoc {2}{1}{Történeti áttekintés}{8}{0}{2}
+\select@language {magyar} \beamer@subsectionintoc {2}{2}{Elméleti áttekintés}{9}{0}{2}
+\select@language {magyar} \beamer@subsectionintoc {2}{3}{Felhasználási lehetőségek}{11}{0}{2}
+\select@language {magyar} \beamer@subsectionintoc {2}{4}{Felvételek}{12}{0}{2}
+\select@language {magyar} \beamer@sectionintoc {3}{Hivatkozások}{14}{0}{3}

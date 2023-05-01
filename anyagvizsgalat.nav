@@ -23,38 +23,36 @@
 \select@language {magyar} \headcommand {\beamer@subsectionentry {0}{1}{4}{7}{Felvételek}}
 \select@language {magyar} \headcommand {\slideentry {1}{4}{1}{7/7}{Felvételek}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {7}{7}}
-\select@language {magyar} \headcommand {\slideentry {1}{4}{2}{8/8}{Felvételek}{0}}
+\select@language {magyar} \headcommand {\beamer@sectionpages {3}{7}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {7}{7}}
+\select@language {magyar} \headcommand {\sectionentry {2}{Pásztázó alagútmikroszkóp}{8}{Pásztázó alagútmikroszkóp}{0}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {8}{7}}
+\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{2}{1}{8}{Történeti áttekintés}}
+\select@language {magyar} \headcommand {\slideentry {2}{1}{1}{8/8}{Történeti áttekintés}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {8}{8}}
-\select@language {magyar} \headcommand {\beamer@sectionpages {3}{8}}
-\select@language {magyar} \headcommand {\beamer@subsectionpages {7}{8}}
-\select@language {magyar} \headcommand {\sectionentry {2}{Pásztázó alagútmikroszkóp}{9}{Pásztázó alagútmikroszkóp}{0}}
-\select@language {magyar} \headcommand {\beamer@subsectionpages {9}{8}}
-\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{2}{1}{9}{Történeti áttekintés}}
-\select@language {magyar} \headcommand {\slideentry {2}{1}{1}{9/9}{Történeti áttekintés}{0}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {8}{8}}
+\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{2}{2}{9}{Elméleti áttekintés}}
+\select@language {magyar} \headcommand {\slideentry {2}{2}{1}{9/9}{Elméleti áttekintés}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {9}{9}}
-\select@language {magyar} \headcommand {\beamer@subsectionpages {9}{9}}
-\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{2}{2}{10}{Elméleti áttekintés}}
-\select@language {magyar} \headcommand {\slideentry {2}{2}{1}{10/10}{Elméleti áttekintés}{0}}
+\select@language {magyar} \headcommand {\slideentry {2}{2}{2}{10/10}{Elméleti áttekintés}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {10}{10}}
-\select@language {magyar} \headcommand {\slideentry {2}{2}{2}{11/11}{Elméleti áttekintés}{0}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {9}{10}}
+\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{2}{3}{11}{Felhasználási lehetőségek}}
+\select@language {magyar} \headcommand {\slideentry {2}{3}{1}{11/11}{Felhasználási lehetőségek}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {11}{11}}
-\select@language {magyar} \headcommand {\beamer@subsectionpages {10}{11}}
-\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{2}{3}{12}{Felhasználási lehetőségek}}
-\select@language {magyar} \headcommand {\slideentry {2}{3}{1}{12/12}{Felhasználási lehetőségek}{0}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {11}{11}}
+\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{2}{4}{12}{Felvételek}}
+\select@language {magyar} \headcommand {\slideentry {2}{4}{1}{12/12}{Felvételek}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {12}{12}}
-\select@language {magyar} \headcommand {\beamer@subsectionpages {12}{12}}
-\select@language {magyar} \headcommand {\beamer@subsectionentry {0}{2}{4}{13}{Felvételek}}
-\select@language {magyar} \headcommand {\slideentry {2}{4}{1}{13/13}{Felvételek}{0}}
+\select@language {magyar} \headcommand {\slideentry {2}{4}{2}{13/13}{Felvételek}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {13}{13}}
-\select@language {magyar} \headcommand {\slideentry {2}{4}{2}{14/14}{Felvételek}{0}}
+\select@language {magyar} \headcommand {\beamer@sectionpages {8}{13}}
+\select@language {magyar} \headcommand {\beamer@subsectionpages {12}{13}}
+\select@language {magyar} \headcommand {\sectionentry {3}{Hivatkozások}{14}{Hivatkozások}{0}}
+\select@language {magyar} \headcommand {\slideentry {3}{0}{1}{14/14}{}{0}}
 \select@language {magyar} \headcommand {\beamer@framepages {14}{14}}
-\select@language {magyar} \headcommand {\beamer@sectionpages {9}{14}}
-\select@language {magyar} \headcommand {\beamer@subsectionpages {13}{14}}
-\select@language {magyar} \headcommand {\sectionentry {3}{Hivatkozások}{15}{Hivatkozások}{0}}
-\select@language {magyar} \headcommand {\slideentry {3}{0}{1}{15/15}{}{0}}
-\select@language {magyar} \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\beamer@partpages {1}{15}}
-\headcommand {\beamer@subsectionpages {15}{15}}
-\headcommand {\beamer@sectionpages {15}{15}}
-\headcommand {\beamer@documentpages {15}}
-\headcommand {\gdef \inserttotalframenumber {15}}
+\headcommand {\beamer@partpages {1}{14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\beamer@sectionpages {14}{14}}
+\headcommand {\beamer@documentpages {14}}
+\headcommand {\gdef \inserttotalframenumber {14}}
