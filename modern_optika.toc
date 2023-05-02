@@ -4,4 +4,8 @@
 \select@language {magyar} \beamer@sectionintoc {4}{Egyéb esetek}{12}{0}{4}
 \select@language {magyar} \beamer@subsectionintoc {4}{1}{Fókuszált nyaláb síkhullámokról való visszaverődése}{12}{0}{4}
 \select@language {magyar} \beamer@subsectionintoc {4}{2}{Fókuszált nyaláb görbült frontról való visszaverődése}{13}{0}{4}
-\select@language {magyar} \beamer@sectionintoc {5}{Hivatkozások}{14}{0}{5}
+\select@language {magyar} \beamer@sectionintoc {5}{Akusztooptikai eszközök}{14}{0}{5}
+\select@language {magyar} \beamer@subsectionintoc {5}{1}{Modulátor}{15}{0}{5}
+\select@language {magyar} \beamer@subsectionintoc {5}{2}{Szkenner}{16}{0}{5}
+\select@language {magyar} \beamer@subsectionintoc {5}{3}{Jelszétválasztás}{17}{0}{5}
+\select@language {magyar} \beamer@sectionintoc {6}{Hivatkozások}{18}{0}{6}
